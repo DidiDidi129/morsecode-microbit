@@ -1,5 +1,5 @@
 
-> Open this page at [https://didididi129.github.io/morsecode-microbit/](https://didididi129.github.io/morsecode-microbit/)
+> Open this page at [https://didi-party.github.io/morsecode-microbit/](https://didi-party.github.io/morsecode-microbit/)
 
 ## Use as Extension
 
@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/didididi129/morsecode-microbit** and import
+* search for **https://didi-party.github.io/morsecode-microbit/** and import
 
 ## Edit this project
 
@@ -16,7 +16,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/didididi129/morsecode-microbit** and click import
+* paste **https://didi-party.github.io/morsecode-microbit/** and click import
 
 #### Metadata (used for search, rendering)
 
